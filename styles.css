@@ -1,2 +1,15 @@
 /* CSS styles */
-
+p.intro {text-transform: uppercase}
+table { 
+  color: gray; 
+  border: 1px solid black; 
+  padding: 15px;
+  border-color: gray;}
+  
+h2 {color: darkblue}
+img {float: right;
+  height: 300px; 
+  width 50%}
+h1 {background-color: lightblue}
+h2 {text-decoration: }
+body {background: e2e2e2}
